@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Chulabhorn Likit Text';
+    src: url('ChulabhornLikitText-Medium.woff2') format('woff2'),
+        url('ChulabhornLikitText-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Chulabhorn Likit Text';
+    src: url('ChulabhornLikitText-Light.woff2') format('woff2'),
+        url('ChulabhornLikitText-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Chulabhorn Likit Text';
+    src: url('ChulabhornLikitText-Bold.woff2') format('woff2'),
+        url('ChulabhornLikitText-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Chulabhorn Likit Text';
+    src: url('ChulabhornLikitText-Regular.woff2') format('woff2'),
+        url('ChulabhornLikitText-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

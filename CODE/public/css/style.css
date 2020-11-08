@@ -1,0 +1,5 @@
+@import url("../font/stylesheet.css");
+
+html, body{
+  font-family: 'Chulabhorn Likit Text', sans-serif !important;
+}

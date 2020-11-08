@@ -11,4 +11,4 @@
 - ตัวอย่าง code เป็น php และใช้ php pdo ในการ connect database
 
 ## Screenshot
-![S1](S__156680194.jpg =200x389)
+![S1](S__156680194.jpg=200x389)

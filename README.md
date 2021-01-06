@@ -1,3 +1,6 @@
+[![GitHub issues](https://img.shields.io/github/issues/chiipzaa/LINE-Notify-1-1?style=for-the-badge)](https://github.com/chiipzaa/LINE-Notify-1-1/issues)
+[![GitHub forks](https://img.shields.io/github/forks/chiipzaa/LINE-Notify-1-1?style=for-the-badge)](https://github.com/chiipzaa/LINE-Notify-1-1/network)
+
 # LINE-Notify-1-1
 
 ##ตัวอย่างการสร้าง LINE NOTIFY 1-1 Chat 
